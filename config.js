@@ -6,3 +6,4 @@ const constants = {
 }
 
 module.exports = constants;
+  // "test": "echo \"Error: no test specified\" && exit 1"
